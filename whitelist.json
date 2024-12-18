@@ -1,10 +1,15 @@
 {
-  "whitelists": {
-    "whitelist-v1": [
-      1274739865,
+    "groups": [
+        {
+            "groupId": 1234567,
+            "minRank": 50,           // Optional, can be null or omitted
+            "specificRank": null     // Optional, can be null or omitted
+        },
+        {
+            "groupId": 2345678,
+            "minRank": null,         // Optional, can be null or omitted
+            "specificRank": null     // Optional, can be null or omitted
+        }
     ],
-    "whitelist-groups": [
-      32376099,
-    ]
-  }
+    "players": [123456789, 987654321]  // List of specific user IDs
 }
