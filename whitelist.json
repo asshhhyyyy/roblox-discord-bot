@@ -1,15 +1,10 @@
 {
     "groups": [
         {
-            "groupId": 1234567,
-            "minRank": 50,
-            "specificRank": null
-        },
-        {
-            "groupId": 2345678,
+            "groupId": 32376099,
             "minRank": null,
-            "specificRank": null
-        }
+            "specificRank": 255
+        },
     ],
     "players": [null]
 }
