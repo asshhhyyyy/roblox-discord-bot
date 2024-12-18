@@ -2,14 +2,14 @@
     "groups": [
         {
             "groupId": 1234567,
-            "minRank": 50,           // Optional, can be null or omitted
-            "specificRank": null     // Optional, can be null or omitted
+            "minRank": 50,
+            "specificRank": null
         },
         {
             "groupId": 2345678,
-            "minRank": null,         // Optional, can be null or omitted
-            "specificRank": null     // Optional, can be null or omitted
+            "minRank": null,
+            "specificRank": null
         }
     ],
-    "players": [123456789, 987654321]  // List of specific user IDs
+    "players": [123456789, 987654321]
 }
