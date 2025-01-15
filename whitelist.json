@@ -1,10 +1,5 @@
 {
-    "groups": [
-        {
-            "groupId": 32376099,
-            "minRank": null,
-            "specificRank": 255
-        }
-    ],
-    "players": []
+  "players": [
+    1274739865,       // Replace with the actual User ID of the whitelisted player
+  ]
 }
