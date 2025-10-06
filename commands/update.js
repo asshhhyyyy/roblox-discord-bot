@@ -19,23 +19,16 @@ export default {
 
       // === 🎖️ RANK ROLES ===
       const rankRoles = {
-        1: '120000000000000000',  // Private
-        5: '120000000000000001',  // Corporal
-        10: '120000000000000002', // Sergeant
-        15: '120000000000000003', // Lieutenant
-        20: '120000000000000004', // Captain
-        25: '120000000000000005', // Major
-        30: '120000000000000006', // Colonel
-        35: '120000000000000007'  // General
+        1: '1424719646593908816',  // Private
+        2: '1424719706618728509',  // Corporal
+        254: '1424719757927514123', // Sergeant
       };
 
       // === 🪖 DIVISION ROLES ===
       // (Each division corresponds to a Roblox group ID)
       const divisionRoles = [
-        { name: 'Infantry', groupId: 1234567, roleId: '130000000000000001' },
-        { name: 'Navy', groupId: 2345678, roleId: '130000000000000002' },
-        { name: 'Air Wing', groupId: 3456789, roleId: '130000000000000003' },
-        { name: 'Special Forces', groupId: 4567890, roleId: '130000000000000004' },
+        { name: 'Infantry', groupId: 32061514, roleId: '1424720139865292863' },
+        { name: 'Navy', groupId: 12670631, roleId: '1424720174002733067' },
       ];
 
       // Get rank data from your main Roblox group
